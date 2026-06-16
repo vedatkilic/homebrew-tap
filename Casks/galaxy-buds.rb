@@ -1,6 +1,6 @@
 cask "galaxy-buds" do
-  version "1.0.0"
-  sha256 "c887f8cc7bb1269f7c4a45f93c616ae92e84ba265512a63c75425ff83e8c66de"
+  version "1.0.1"
+  sha256 "a0bb00e247806de5d7613fb27c863eb51e6be4e9f0ecbbb58107f687ae07a0c6"
 
   url "https://github.com/vedatkilic/galaxy-buds-mac/releases/download/v#{version}/Galaxy-Buds-#{version}.dmg"
   name "Galaxy Buds"
